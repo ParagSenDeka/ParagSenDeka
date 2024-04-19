@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 - :seedling: Exploring Software Development.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parag-deka-08b24a231)
+- :mailbox:How to reach me: [![Linkedin Badge]([https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/parag-deka-08b24a231)
 
