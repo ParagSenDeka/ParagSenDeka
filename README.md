@@ -31,3 +31,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+:telescope: I’m working as a Student and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Software Development.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parag-deka-08b24a231)
+
