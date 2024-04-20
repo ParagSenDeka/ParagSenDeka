@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 - My Skills:
 -  MERN Stack Development
 -  Mobile/Desktop Application Development
--  
-- 
+
+  
 - 💞️ You can follow me on Twitter or LinkedIn 
 
 - Have a great day 👍
