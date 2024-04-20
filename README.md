@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 :telescope: I’m working as a Student and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Software Development.
--👋 Hi, I’m @ParagSenDeka
-- I'm a Student Learning Software Development.
-- My Skills:
+ :seedling: Exploring Software Development.
+👋 Hi, I’m @ParagSenDeka
+
+  My Skills:
 -  MERN Stack Development
 -  Mobile/Desktop Application Development
 
