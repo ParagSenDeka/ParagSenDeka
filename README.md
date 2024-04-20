@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 :telescope: I’m working as a Student and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Software Development.
+-👋 Hi, I’m @ParagSenDeka
+- I'm a Student Learning Software Development.
+- My Skills:
+-  MERN Stack Development
+-  Mobile/Desktop Application Development
+-  
+- 
+- 💞️ You can follow me on Twitter or LinkedIn 
+
+- Have a great day 👍
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-deka-08b24a231)
 
