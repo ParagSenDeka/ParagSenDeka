@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 -  Mobile/Desktop Application Development
 
   
-- 💞️ You can follow me on Twitter or LinkedIn 
+ 💞️ You can follow me on Twitter or LinkedIn 
 
-- Have a great day 👍
+ Have a great day 👍
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-deka-08b24a231)
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-deka-08b24a231)
 
