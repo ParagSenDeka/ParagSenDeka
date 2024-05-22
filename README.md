@@ -26,9 +26,6 @@ Here are some ideas to get you started:
   <a href="https://youtube.com/@skyisbluexd?si=HYvhI8chqg-oA-Hr">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fskyisbluexd">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 :telescope: I’m working as a Student and contributing to frontend and backend for building web applications.
