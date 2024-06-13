@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✋ Thank you everyone for following me.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 -  Mobile/Desktop Application Development
 
   
- 💞️ You can follow me on Twitter or LinkedIn 
+ 💞️ You can follow me on Twitter or LinkedIn
 
  Have a great day 👍
 
