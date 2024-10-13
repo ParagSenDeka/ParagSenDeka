@@ -37,9 +37,11 @@ Here are some ideas to get you started:
   My Skills:
 -  MERN Stack Development
 -  Mobile/Desktop Application Development
+-  DSA
+-  Problem Solving and Quick Learning
 
   
- 💞️ You can follow me on Twitter or LinkedIn
+ 💞️ You can follow me on Discord or LinkedIn
  ✋ Thank you everyone for following me.
  Have a great day 👍
 
