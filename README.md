@@ -29,15 +29,17 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-:telescope: I’m working as a Student and contributing to frontend and backend for building web applications.
+:telescope: I’m working as a Student and contributing to development of software.
 
- :seedling: Exploring Software Development.
+ :seedling: Exploring Software Development and Engineering.
 👋 Hi, I’m @ParagSenDeka
 
   My Skills:
 -  MERN Stack Development
 -  Mobile/Desktop Application Development
 -  DSA
+-  OS & DBMS
+-  Networking
 -  Problem Solving and Quick Learning
 
   
