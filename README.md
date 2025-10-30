@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 -  Rust/C++
 
   
- 💞️ You can follow me on Discord or LinkedIn
+ 💞️ You can follow me on LinkedIn
  ✋ Thank you everyone for following me.
  Have a great day 👍
 
