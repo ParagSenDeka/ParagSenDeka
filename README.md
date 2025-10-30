@@ -35,12 +35,11 @@ Here are some ideas to get you started:
 👋 Hi, I’m @ParagSenDeka
 
   My Skills:
--  MERN Stack Development
--  Mobile/Desktop Application Development
+-  MERN
 -  DSA
 -  OS & DBMS
 -  Networking
--  Problem Solving and Quick Learning
+-  Rust/C++
 
   
  💞️ You can follow me on Discord or LinkedIn
