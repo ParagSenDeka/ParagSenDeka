@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-:telescope: I’m working as a Student and contributing to development of software.
+:telescope: CS graduate and Open Source Contributor.
 
  :seedling: Exploring Software Development and Engineering.
 👋 Hi, I’m @ParagSenDeka
