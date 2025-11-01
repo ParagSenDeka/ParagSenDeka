@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 -  DSA
 -  OS & DBMS
 -  Networking
--  Rust/C++
+-  C++
 
   
  💞️ You can follow me on LinkedIn
